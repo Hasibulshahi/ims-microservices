@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Fola4OqJkBZAxQYpdEpsfMwRe9Kn2+SBp959wZq7WU=",
+  "Source": "IMS_Microservices.Services.UserAPI",
+  "BasePath": "_content/IMS_Microservices.Services.UserAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
