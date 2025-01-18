@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMS_Microservices.Services.MenuAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66ab40b38aca54f849f7936a816e7fca8195a69b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMS_Microservices.Services.MenuAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMS_Microservices.Services.MenuAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

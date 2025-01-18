@@ -170,3 +170,4 @@ D:\Practice Projects\ims-microservices\IMS_Microservices\IMS_Microservices.Servi
 D:\Practice Projects\ims-microservices\IMS_Microservices\IMS_Microservices.Services.UserAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Practice Projects\ims-microservices\IMS_Microservices\IMS_Microservices.Services.UserAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Practice Projects\ims-microservices\IMS_Microservices\IMS_Microservices.Services.UserAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practice Projects\ims-microservices\IMS_Microservices\IMS_Microservices.Services.UserAPI\obj\Debug\net8.0\IMS_Microservices.Services.UserAPI.sourcelink.json

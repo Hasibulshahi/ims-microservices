@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|solutionrelative:ims_microservices.services.userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|solutionrelative:ims_microservices.services.userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.userapi\\controllers\\imsemployeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|solutionrelative:ims_microservices.services.userapi\\controllers\\imsemployeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.menuapi\\controllers\\imsmenuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|solutionrelative:ims_microservices.services.menuapi\\controllers\\imsmenuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.userapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9768AD6-1D75-4548-B2CB-2C302C563D28}|IMS_Microservices.Services.UserAPI\\IMS_Microservices.Services.UserAPI.csproj|solutionrelative:ims_microservices.services.userapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.menuapi\\ims_microservices.services.menuapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|solutionrelative:ims_microservices.services.menuapi\\ims_microservices.services.menuapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.menuapi\\controllers\\imsmenuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|solutionrelative:ims_microservices.services.menuapi\\controllers\\imsmenuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE713E10-2D5A-48AC-B5BF-EB71AB21850F}|IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj|d:\\practice projects\\ims-microservices\\ims_microservices\\ims_microservices.services.menuapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IMS_Microservices.Services.UserAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IMS_Microservices.Services.UserAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T06:23:38.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IMS_Microservices.Services.UserAPI\\Program.cs",
+              "ToolTip": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Program.cs",
+              "RelativeToolTip": "IMS_Microservices.Services.UserAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:22:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "IMS_Microservices.Services.UserAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "IMS_Microservices.Services.UserAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:58:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IMSEmployeeAPIController.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Controllers\\IMSEmployeeAPIController.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.UserAPI\\Controllers\\IMSEmployeeAPIController.cs",
               "ToolTip": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.UserAPI\\Controllers\\IMSEmployeeAPIController.cs",
               "RelativeToolTip": "IMS_Microservices.Services.UserAPI\\Controllers\\IMSEmployeeAPIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAqwGUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T02:15:09.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IMSMenuAPIController.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\Controllers\\IMSMenuAPIController.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\Controllers\\IMSMenuAPIController.cs",
@@ -68,20 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMS_Microservices.Services.MenuAPI",
-              "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj",
-              "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj",
-              "ToolTip": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj*",
-              "RelativeToolTip": "IMS_Microservices.Services.MenuAPI\\IMS_Microservices.Services.MenuAPI.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T02:12:55.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\Program.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\Program.cs",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IMSMenuDto.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\Models\\Dto\\IMSMenuDto.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\Models\\Dto\\IMSMenuDto.cs",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IMSMenu.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\Models\\IMSMenu.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\Models\\IMSMenu.cs",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Practice Projects\\ims-microservices\\IMS_Microservices\\IMS_Microservices.Services.MenuAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IMS_Microservices.Services.MenuAPI\\Data\\AppDbContext.cs",

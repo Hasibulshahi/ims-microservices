@@ -83,5 +83,40 @@ namespace IMS_Microservices.Services.UserAPI.Controllers
 
             return _response;
         }
+
+        [HttpPost]
+        [Route("login")]
+        public ResponseDto Login([FromBody] LoginRequestDto loginRequest)
+        {
+            try
+            {
+                var user = _db.IMSEmployees.FirstOrDefault(x => x.email == loginRequest.Username && x.password == loginRequest.Password);
+
+                if (user == null)
+                {
+                    _response.Result = "Invalid username or password.";
+                    _response.isSuccess = false;
+                }
+                else
+                {
+                    IMSEmployeeDto employeeDto = new()
+                    {
+                        employeeID = user.employeeID,
+                        email = user.email,
+                        firstName = user.firstName,
+                        lastName = user.lastName,
+                        phone = user.phone
+                    };
+                    _response.Result = employeeDto;
+                    _response.isSuccess = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                _response.Result = ex.Message;
+                _response.isSuccess = false;
+            }
+            return _response;
+        }
     }
 }
